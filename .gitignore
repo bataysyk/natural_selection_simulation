@@ -1,0 +1,11 @@
+
+/venv/
+/.idea/
+/shelf/
+/workspace.xml
+__pycache__/
+/dist/
+/build/
+*.png
+*.jpg
+main.spec
